@@ -42,5 +42,4 @@ venv/
 *.swp
 *.swo
 
-# Vector store
-backend/data/vector_store/ 
+backend/backend/data/vector_store
